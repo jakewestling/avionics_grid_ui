@@ -1,4 +1,3 @@
-
 /* Screen less than (xs-default) ALL PHONES PORTRAIT*/
 @media screen and (min-width: 0px) {
   * {
@@ -38,7 +37,6 @@
   .container > div:hover {
     opacity: 1;
     transform: scale(0.98);
-    /*-moz-transform: scale(0.98);*/
   }
   
   .container > div:nth-of-type(2) {
