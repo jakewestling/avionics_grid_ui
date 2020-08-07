@@ -16,4 +16,3 @@ To see the full effect, be sure to view this project on a large tablet or comput
 ### CSS
 * CSS Grid Display
 * CSS Flex for centering
-* Item 3
